@@ -934,6 +934,7 @@ nav .form i{
   caret-color: var(--main-color);
   width: calc(100% - 130px);
   border-right: none;
+  color: white;
 }
 .subs form input[type="email"]::placeholder{
   color: white;
@@ -1004,6 +1005,7 @@ nav .form i{
   border: 1px solid #ccc;
   padding: 20px;
   margin-bottom: 30px;
+  resize: none;
 }
 .contact-us .contact form textarea:focus-visible{
   outline: none;
